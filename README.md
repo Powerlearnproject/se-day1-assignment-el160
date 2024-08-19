@@ -8,7 +8,7 @@ Software Engineering Day1 Assignment
 software engineering is the application of engineering principles, methods, and tools to develop and maintain high-quality software systems and it involves software product design, development, testing, deployment, and maintenance.
 
 importance of software engineering include;
-enables creation of software applications and systems that power various aspects in modern life including communication,healthcare,commerce and entertainment
+enables creation of software applications and systems that power various aspects in modern life including communication,healthcare,commerce and entertainment.
 Improving Software Quality: Ensures high-quality, reliable, and maintainable software through structured methodologies and rigorous testing.
 Enhancing Development Efficiency: Optimizes development processes, uses advanced tools, and promotes component reuse to accelerate and streamline development.
 Managing Complexity: Provides principles for managing large, complex systems through modular design, documentation, and risk management.
